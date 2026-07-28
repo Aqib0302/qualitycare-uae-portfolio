@@ -69,8 +69,8 @@ If the server uses environment variables (e.g. for email/SMTP, database, or API 
 ## Contact
 
 For questions about this project, reach out via the details in the site footer:
-- 📞 +971 565 656 825
-- ✉ qualityc.marketing@gmail.com
+- 📞 xxxxxxxxxxxx
+- ✉ xxxxxx@gmail.com
 - 📍 Al Murjan Tower, Office #509, Al Nahda 1, Dubai, UAE
 
 ## License
